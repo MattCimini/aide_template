@@ -1,7 +1,10 @@
 # aide_template
 AIDE_Template is responsible for creating the Fusion 360 models that will take in parameters given by AIDE_Design.
 They focus primarily on the geometric relationships within in the plant, as opposed to the hydraulic ones.
- 
+
+## Research Advisor:
+Kevin Juan (kj89)
+
 ## Team Members:
 Matt Cimini (mhc92)
 
