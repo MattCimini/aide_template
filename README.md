@@ -20,7 +20,7 @@ Gabby Peralta (gp275)
 
 Shiyao Sun (ss2567)
 
-Emma Su (hs699)
+Emma Sung (hs699)
 
  ## Semester Goals
  They plan to have a parameterizable model of the entire plant.
